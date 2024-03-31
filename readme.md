@@ -1,15 +1,8 @@
-<h1 align="center">Welcome to my Github! I'm Dave</h1>
+<h1 align="center">Welcome to my Github! I'm Dave!</h1>
 
 <h3 align='center'>
   Full Stack Developer
 </h4>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Wonderful%20Techi!%20;Nothing%20is%20Impossible!%20;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
-</p>
-
 
 ## About me:
 
