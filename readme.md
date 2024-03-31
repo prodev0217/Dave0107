@@ -1,15 +1,9 @@
-<h1 align="center">Welcome to my Github! Nothing is Impossible!</h1>
+<h1 align="center">Welcome to my Github! I'm Dave</h1>
 
 <h3 align='center'>
-  Senior Full Stack Developer
+  Full Stack Developer
 </h4>
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
-     <a href="https://github.com/corasphinx">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p> -->
 
 
 <p align="center">
@@ -20,15 +14,13 @@
 ## About me:
 
 <p>
-As a senior software engineer, I have over 9 years of experience in solution design, architecture and application deployment for blockchain and web. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
-As a fast learner and problem solver, I want to apply my software development skills as a senior software engineer and I like to learn new technology.
+As a senior Full-Stack Web Developer, I have over 9 years of experience in frontend, backend development. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
+As a fast learner and problem solver, I want to apply my software development skills as a senior Full-Stack developer and I like to learn new technology.
 </p>
 
 <h2>My Major Skills</h2>
 
 ▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang
-
-▲ Blockchain : Ethereum | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
 
 ▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS
 
